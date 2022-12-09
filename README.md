@@ -3,3 +3,4 @@ The user inputs that were given is for the robot's initial position, how many ob
 Softwares that were used in this project were used ubuntu 18.04 vscode, robotictoolbox(rtb).
 The code should be able to accept user inputs for the initial position and the goal, calculating and updating the robot's position on the map using sensors, reaching the required goal as fast and efficient as possible without colliding with the walls or obstacles.![this is the flowchart](https://github.com/Hussein00436/CW3-Computer-Engineering/blob/main/flow%20chart.docx)
 The result of our code is that it reaches the target without colliding with the obstacles but we were not able to make the robot avoid the walls.![this is the robot](https://github.com/Hussein00436/CW3-Computer-Engineering/blob/main/Screenshot%20from%202022-12-09%2018-28-09.png)
+The project could have been improved by adding a path for the robot to move on which the outcome was an error. The code does not have any redundancy 
